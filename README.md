@@ -36,20 +36,6 @@ _SMEs | Accountant | Operations Manager | Data Analyst | Business Intelligence A
 
 ---
 
-### 💼 What I Do
-- Export data from customer websites  
-- Transform and import data using Python scripts into MySQL databases  
-- Process and save raw files to Microsoft SharePoint  
-- Query data from SQL databases, SharePoint, and local folders  
-- Generate reports and perform analysis using Excel and Google Sheets  
-- Build interactive dashboards in Power BI  
-
-#### 🐍 Python Application Development
-- Build custom apps to convert PDF files into CSV for easier data handling  
-- Develop tailored Python solutions to enhance limitations of existing Business Management systems integrated with MySQL  
-
----
-
 ### 🧰 Tools & Technologies
 **Languages**: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
