@@ -56,7 +56,7 @@ _SMEs | Accountant | Operations Manager | Data Analyst | Business Intelligence A
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white) 
 
 ### 📂 Projects
-Check out my [portfolio](https://github.com/katiehuangx?tab=repositories)
+Check out my [portfolio](https://github.com)
 
 ### 📬 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/melvin-reuben-olandria-11b003370/)
